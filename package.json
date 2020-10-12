@@ -1,11 +1,12 @@
 {
-  "name": "grapesjs",
+  "name": "@quorum/grapesjs",
   "description": "Free and Open Source Web Builder Framework",
-  "version": "0.16.18",
-  "author": "Artur Arseniev",
+  "version": "0.16.18-8",
+  "author": "Mark Murphy",
   "license": "BSD-3-Clause",
   "homepage": "http://grapesjs.com",
   "main": "dist/grapes.min.js",
+  "types": "dist/grapesjs.d.ts",
   "sideEffects": [
     "*.vue",
     "*.css",
